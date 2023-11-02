@@ -1,0 +1,14 @@
+                                     POSITION IN CSS ASSIGNMENT 
+ TASK 2 : Explain the difference between Absolute and Relative positionin.   
+ SOLUTION : In CSS, absolute positioning places an element relative to its parent's position and changes the layout around it. 
+ Relative positioning places an element relative to its current position without changing the layout around it. 
+Absolute positioning defines the position of a given bounding box from the top and left side margins of the web page.
+ Relative positioning defines the positioning in such a way that elements are offset from the previous element in the HTML 
+  code .
+
+  TASK 5 :
+  SOLUTION : When elements are positioned, they can overlap other elements.
+The z-index property specifies the stack order of an element (which element should be placed in front of, 
+or behind, the others).An element can have a positive or negative stack order .
+
+                                
